@@ -1,0 +1,17 @@
+commit d6429264bb03e8046aace25f288c3e8788a913e1
+Author: harold.esquivel <haec88@hotmail.com>
+Date:   Mon Dec 8 07:38:28 2025 -0500
+
+    feat: change files examples git
+
+commit 6edeab521995eb9ef2319f756959604978905e6d
+Author: harold.esquivel <haec88@hotmail.com>
+Date:   Mon Dec 8 07:33:35 2025 -0500
+
+    feat: new files examples git
+
+commit 19bade66fef938c87b2019c9106db3f97e1ea0d1
+Author: harold.esquivel <haec88@hotmail.com>
+Date:   Mon Dec 8 07:13:22 2025 -0500
+
+    new file index.html
